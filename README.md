@@ -27,13 +27,10 @@
 <h2 align="center">⋆｡ﾟ✶°💜 contact to me 💜⋆｡ﾟ✶°</h2>
 
 <p align="center">
- <a href="https://velog.io/@cis07385">
+ <a href="https://velog.io/@jinman-kim">
   <img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://donghyeok1.github.io/"/>
  </a>  
- <a href="http://dongsport.kro.kr">
-  <img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://donghyeok1.github.io/"/>
- </a>  
- <a href="mailto:cis0007385@gmail.com">
+ <a href="mailto:gameliker16@naver.com">
   <img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cis0007385@gmail.com"/>
  </a>
  </p>
