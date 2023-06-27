@@ -1,5 +1,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdonghyeok1&count_bg=%23A488EB&title_bg=%235A8AE5&icon=atom.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
-<img align="right" src="https://user-images.githubusercontent.com/95459089/187596211-45b98ed1-e9b1-408d-9712-f03295bbc2f9.jpg" width="300"/>
 <br />
 <br />
 <br />
