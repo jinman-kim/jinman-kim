@@ -59,6 +59,22 @@
 </div>
 
 > ## PlayCrypto InfraStructure !
+> ### 1. 메인 웹서버 구현 : django (WebServer: nginx , WAS: gunicorn)
+> ### 2. 채팅방 채널 구현 : django + celery + redis
+> ### 3. 회원가입 -> 유저 db : MySQL
+> ### 4. 유저들의 활동 로그 : mongoDB 
+> ### 5. 일단위 ML batch (DAGS) 바이낸스/디파이라마 데이터 수집, 모델 학습 : airflow -> 완료시 Telegram API 알림
+> ### 6. 생성된 가격 데이터 csv와 json은 스토리지(S3) 적재
+> ### 7. 유저 요청에 의한 파인 튜닝 모델 서빙 : fastapi (모델 서버)
+<br>
+
+> ## 고민사항 (우선순위대로)
+> ### 1. VPC, Subnet 구성 (필수)
+> ### 2. fastapi 모델 서빙을 서버리스로로(AWS Lambda, GCP Function) 구축 (고민 중)
+> ### 3. 유저들의 활동 로그 발생 지점에 이벤트 브로커(kafka 구축 고려) 구축 (고민 중)
+> ### 4. 인스턴스들 클러스터링 후 prometheus, grafana, k8s 구축 (고민 중)
+> ### 5. 하둡, 스파크 구축 (고민 중)
+> 
 ![image](https://github.com/jinman-kim/jinman-kim/assets/94787419/b369e5d0-33f9-489a-9e2f-16cc8de40044)
 
 
