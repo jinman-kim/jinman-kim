@@ -1,11 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdonghyeok1&count_bg=%23A488EB&title_bg=%235A8AE5&icon=atom.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <h1> Hi, I'm JinMan-Kim
 
 
@@ -63,10 +57,9 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <br>
 </div>
-## our project server architecture
-![image](https://github.com/jinman-kim/jinman-kim/assets/94787419/382b3058-f7f7-440f-af48-0b2be78b8387)
 
-
+> ## PlayCrypto InfraStructure !
+![image](https://github.com/jinman-kim/jinman-kim/assets/94787419/b369e5d0-33f9-489a-9e2f-16cc8de40044)
 
 
 <h2 align="center">⋆｡ﾟ✶°💜 contact to me 💜⋆｡ﾟ✶°</h2>
