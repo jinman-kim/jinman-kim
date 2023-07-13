@@ -63,6 +63,8 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <br>
 </div>
+## our project server architecture
+![image](https://github.com/jinman-kim/jinman-kim/assets/94787419/382b3058-f7f7-440f-af48-0b2be78b8387)
 
 
 
