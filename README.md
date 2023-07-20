@@ -70,7 +70,7 @@
 
 > ## 고민사항 (우선순위대로)
 > ### 1. VPC, Subnet 구성 (필수)
-> ### 2. fastapi 모델 서빙을 서버리스로로(AWS Lambda, GCP Function) 구축 (고민 중)
+> ### 2. fastapi 모델 서빙을 서버리스로(AWS Lambda, GCP Function) 구축 (고민 중)
 > ### 3. 유저들의 활동 로그 발생 지점에 이벤트 브로커(kafka 구축 고려) 구축 (고민 중)
 > ### 4. 인스턴스들 클러스터링 후 prometheus, grafana, k8s 구축 (고민 중)
 > ### 5. 하둡, 스파크 구축 (고민 중)
