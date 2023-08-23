@@ -145,33 +145,6 @@
 </table>
 
 
-<br><br>
-## ${\color{#aac766}🐍 \space My \space commits \space being \space devoured \space 😨🤭}$
-  <img width="100%" src="https://github.com/jinman-kim/jinman-kim/blob/output/github-contribution-grid-snake.svg">
-<div> 
-  <!-- python --><!-- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <!-- r --><!-- <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
-  <!-- Rstudio --><!-- <img src="https://img.shields.io/badge/rstudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white">
-  <!-- visualstudio --><!-- <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-  <!-- visualstudiocode --><!-- <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <!-- django --><!-- <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <!-- mysql --><!-- <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <!-- mongodb --><!-- <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <!-- docker --><!-- <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <!-- ubuntu --><!-- <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
-  <!-- googlecloud --><!-- <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> 
-  <!-- AWS --><!-- <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <!-- html5 --><!-- <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <!-- css --><!-- <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <!-- fontawesome --><!-- <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-  <!-- bootstrap --><!-- <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <!-- github --><!-- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <!-- git --><!-- <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <!-- slack --><!-- <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <!-- notion --><!-- <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <!-- jira --><!-- <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-  <!-- confluence --><!-- <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"> 
-</div>
 
 > ## PlayCrypto InfraStructure !
 > ### 1. 메인 웹서버 구현 : django (WebServer: nginx , WAS: gunicorn)
