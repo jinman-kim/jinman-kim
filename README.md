@@ -142,6 +142,18 @@
       <br>Jira
     </td>
   </tr>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="48" height="48" alt="Jira" />
+      </a>
+      <br>Jira
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="48" height="48" alt="Jira" />
+      </a>
+      <br>Jira
+    </td>
 </table>
 
 
