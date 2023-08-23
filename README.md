@@ -144,6 +144,48 @@
   </tr>
    <td align="center" width="96">
       <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/airflow.svg" width="48" height="48" alt="Airflow" />
+      </a>
+      <br>Airflow
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" width="48" height="48" alt="Hadoop" />
+      </a>
+      <br>Hadoop
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" width="48" height="48" alt="BigQuery" />
+      </a>
+      <br>BigQuery
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" width="48" height="48" alt="Spark" />
+      </a>
+      <br>Spark
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="48" height="48" alt="Postgresql" />
+      </a>
+      <br>PgSQL
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" width="48" height="48" alt="Kafka" />
+      </a>
+      <br>Kafka
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="http://www.w3.org/2000/svg" width="48" height="48" alt="Jira" />
+      </a>
+      <br>Jira
+    </td>
+   <td align="center" width="96">
+      <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="48" height="48" alt="Jira" />
       </a>
       <br>Jira
