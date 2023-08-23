@@ -144,7 +144,7 @@
   </tr>
    <td align="center" width="96">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/airflow.svg" width="48" height="48" alt="Airflow" />
+        <img src=""https://img.shields.io/badge/apache%20airflow-017CEE"" width="48" height="48" alt="Airflow" />
       </a>
       <br>Airflow
     </td>
