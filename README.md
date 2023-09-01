@@ -45,9 +45,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
+        <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="48" height="48" alt="FastAPI" />
       </a>
-      <br>VScode
+      <br>FastAPI
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -87,6 +87,62 @@
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" width="48" height="48" alt="Kafka" />
+      </a>
+      <br>Kafka
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" width="48" height="48" alt="Hadoop" />
+      </a>
+      <br>Hadoop
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" width="48" height="48" alt="BigQuery" />
+      </a>
+      <br>BigQuery
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" width="48" height="48" alt="Spark" />
+      </a>
+      <br>Spark
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="48" height="48" alt="Postgresql" />
+      </a>
+      <br>PgSQL
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" width="48" height="48" alt="Jenkins" />
+      </a>
+      <br>Jenkins
+    </td>
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" width="48" height="48" alt="K8s" />
+      </a>
+      <br>K8s
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Prometheus
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+  </tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
@@ -142,60 +198,6 @@
       <br>Jira
     </td>
   </tr>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="48" height="48" alt="FastAPI" />
-      </a>
-      <br>FastAPI
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" width="48" height="48" alt="Hadoop" />
-      </a>
-      <br>Hadoop
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" width="48" height="48" alt="BigQuery" />
-      </a>
-      <br>BigQuery
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" width="48" height="48" alt="Spark" />
-      </a>
-      <br>Spark
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="48" height="48" alt="Postgresql" />
-      </a>
-      <br>PgSQL
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" width="48" height="48" alt="Kafka" />
-      </a>
-      <br>Kafka
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" width="48" height="48" alt="K8s" />
-      </a>
-      <br>K8s
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
 </table>
 
 
