@@ -5,8 +5,8 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
   👩🏻‍💻 My name is JinMan but you can also call me Drake.<br>
   🎓 I have a bachelor's degree on Electronic Communication Enginnering.<br>
-  🏅 I just graduated PlayData(Encore Academy)'s Big Data Engineering BootCamp and I'm hoping to enter the market  as a web dev.
-
+  🏅 I just graduated PlayData(Encore Academy)'s Big Data Engineering BootCamp and I'm hoping to enter the market  as a web dev.<br>
+  👩🏻‍💻 I am currently developing as an ML engineer implementing an LLM-based AI chatbot and also working on the backend.
 
 ## ${\color{#7E4DD2}💟 \space Contact \space Me \space Anytime }$
   <a href="https://mankoon.tistory.com">
