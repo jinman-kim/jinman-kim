@@ -144,9 +144,9 @@
   </tr>
    <td align="center" width="96">
       <a href="#">
-        <img src=""https://img.shields.io/badge/apache%20airflow-017CEE"" width="48" height="48" alt="Airflow" />
+        <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="48" height="48" alt="FastAPI" />
       </a>
-      <br>Airflow
+      <br>FastAPI
     </td>
    <td align="center" width="96">
       <a href="#">
@@ -180,21 +180,21 @@
     </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="http://www.w3.org/2000/svg" width="48" height="48" alt="Jira" />
+        <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" width="48" height="48" alt="K8s" />
       </a>
-      <br>Jira
+      <br>K8s
     </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="48" height="48" alt="Jira" />
+        <img src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" width="48" height="48" alt="Prometheus" />
       </a>
-      <br>Jira
+      <br>Prometheus
     </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="48" height="48" alt="Jira" />
+        <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" width="48" height="48" alt="Grafana" />
       </a>
-      <br>Jira
+      <br>Grafana
     </td>
 </table>
 
@@ -210,13 +210,6 @@
 > ### 7. 유저 요청에 의한 파인 튜닝 모델 서빙 : fastapi (모델 서버)
 <br>
 
-> ## 고민사항 (우선순위대로)
-> ### 1. VPC, Subnet 구성 (필수)
-> ### 2. fastapi 모델 서빙을 서버리스로(AWS Lambda, GCP Function) 구축 (고민 중)
-> ### 3. 유저들의 활동 로그 발생 지점에 이벤트 브로커(kafka 구축 고려) 구축 (고민 중)
-> ### 4. 인스턴스들 클러스터링 후 prometheus, grafana, k8s 구축 (고민 중)
-> ### 5. 하둡, 스파크 구축 (고민 중)
-> 
 ![image](https://github.com/jinman-kim/jinman-kim/assets/94787419/b369e5d0-33f9-489a-9e2f-16cc8de40044)
 
 
