@@ -201,27 +201,3 @@
 </table>
 
 
-
-> ## PlayCrypto InfraStructure !
-> ### 1. 메인 웹서버 구현 : django (WebServer: nginx , WAS: gunicorn)
-> ### 2. 채팅방 채널 구현 : django + celery + redis
-> ### 3. 회원가입 -> 유저 db : MySQL
-> ### 4. 유저들의 활동 로그 : mongoDB 
-> ### 5. 일단위 ML batch (DAGS) 바이낸스/디파이라마 데이터 수집, 모델 학습 : airflow -> 완료시 Telegram API 알림
-> ### 6. 생성된 가격 데이터 csv와 json은 스토리지(S3) 적재
-> ### 7. 유저 요청에 의한 파인 튜닝 모델 서빙 : fastapi (모델 서버)
-<br>
-
-![image](https://github.com/jinman-kim/jinman-kim/assets/94787419/b369e5d0-33f9-489a-9e2f-16cc8de40044)
-
-
-<h2 align="center">⋆｡ﾟ✶°💜 contact to me 💜⋆｡ﾟ✶°</h2>
-
-<p align="center">
- <a href="https://velog.io/@jinman-kim">
-  <img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://donghyeok1.github.io/"/>
- </a>  
- <a href="mailto:gameliker16@naver.com">
-  <img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cis0007385@gmail.com"/>
- </a>
- </p>
