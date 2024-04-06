@@ -3,17 +3,19 @@
 ## ${\color{#79b6c9}🦋 \space Come \space check \space my \space github \space :)} $ 
 <!-- ### $\textcolor{green}{\text{Hi, Come check my github :)}}$ -->
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
-  👩🏻‍💻 My name is JinMan but you can also call me Drake.<br>
+  👩🏻‍💻 My name is JinMan then you can also call me Drake.<br>
   🎓 I have a bachelor's degree on Electronic Communication Enginnering.<br>
-  🏅 I just graduated PlayData(Encore Academy)'s Big Data Engineering BootCamp and I'm hoping to enter the market  as a web dev.<br>
-  👩🏻‍💻 I am currently developing as an ML engineer implementing an LLM-based AI chatbot and also working on the backend.
+  👩🏻‍💻 I am currently developing as an ML engineer implementing an LLM-based AI chatbot and also working on the backend.<br>
+  👩🏻‍💻 LLM 기반 서비스에서 서버 개발을(Using Django) 하고 있습니다!<br>
+  👩🏻‍💻 퍼블릭 클라우드에서 ETL을 하고 있습니다! (AWS Glue + Spark)<br>
+  
 
 ## ${\color{#7E4DD2}💟 \space Contact \space Me \space Anytime }$
   <a href="https://mankoon.tistory.com">
     <img height="25" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=[(https://hihwa.tistory.com)]/"/>
   </a>
   <a href="mailto:gaemliker16@naver.com">
-    <img height="25" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happinhwa@gmail.com"/>
+    <img height="25" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gameliker16@naver.com"/>
   </a> 
 
 
@@ -51,9 +53,9 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="48" height="48" alt="MySQL" />
+        <img src="https://symbols.getvecta.com/stencil_261/38_redis.ebcdb3d43b.svg" width="48" height="48" alt="Redis" />
       </a>
-      <br>MySQL
+      <br>Redis
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -145,21 +147,21 @@
   </tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
+        <img src="https://symbols.getvecta.com/stencil_9/35_aws-lambda.1dedbf8479.svg" width="48" height="48" alt="AWS Lambda" />
       </a>
-      <br>HTML 5
+      <br>AWS Lambda
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
+        <img src="https://symbols.getvecta.com/stencil_9/43_aws-glue.ef66031230.svg" width="48" height="48" alt="AWS Glue" />
       </a>
-      <br>CSS 3
+      <br>AWS Glue
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://symbols.getvecta.com/stencil_5/0_aws-athena.bb0d0ced14.svg" width="48" height="48" alt="AWS Athena" />
       </a>
-      <br>Bootstrap
+      <br>AWS Athena
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -169,9 +171,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
+        <img src="https://symbols.getvecta.com/stencil_25/45_jquery.18209fdd44.svg" width="48" height="48" alt="Jquery" />
       </a>
-      <br>Github
+      <br>Jquery
     </td>
     <td align="center" width="96">
       <a href="#">
