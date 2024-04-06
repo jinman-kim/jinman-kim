@@ -26,7 +26,6 @@
 ![jinman-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinman-kim&show_icons=true&theme=solarized-light&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinman-kim&layout=compact&theme=solarized-light&show_icons=true)](https://github.com/happinhwa/github-readme-stats)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhappinhwa&labelColor=%23263759&countColor=%23fcf6e5)
 
 
 ## ${\color{#EF7B4D}🔥 \space Languages \space and \space Tools}$
