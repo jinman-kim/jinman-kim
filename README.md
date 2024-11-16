@@ -5,9 +5,6 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
   👩🏻‍💻 My name is JinMan then you can also call me Drake.<br>
   🎓 I have a bachelor's degree on Electronic Communication Enginnering.<br>
-  👩🏻‍💻 I am currently developing as an ML engineer implementing an LLM-based AI chatbot and also working on the backend.<br>
-  👩🏻‍💻 LLM 기반 서비스에서 서버 개발을(Using Django) 하고 있습니다!<br>
-  👩🏻‍💻 퍼블릭 클라우드에서 ETL을 하고 있습니다! (AWS Glue + Spark)<br>
   
 
 ## ${\color{#7E4DD2}💟 \space Contact \space Me \space Anytime }$
@@ -17,14 +14,6 @@
   <a href="mailto:gaemliker16@naver.com">
     <img height="25" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gameliker16@naver.com"/>
   </a> 
-
-
-
-
-## ${\color{#e8d399}✨ \space GitHub \space Stats}$
-
-![jinman-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinman-kim&show_icons=true&theme=solarized-light&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinman-kim&layout=compact&theme=solarized-light&show_icons=true)](https://github.com/happinhwa/github-readme-stats)
 
 
 
