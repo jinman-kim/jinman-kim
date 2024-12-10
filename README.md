@@ -5,15 +5,6 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
   👩🏻‍💻 My name is JinMan then you can also call me Drake.<br>
   🎓 I have a bachelor's degree on Electronic Communication Enginnering.<br>
-  
-
-## ${\color{#7E4DD2}💟 \space Contact \space Me \space Anytime }$
-  <a href="https://mankoon.tistory.com">
-    <img height="25" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=[(https://hihwa.tistory.com)]/"/>
-  </a>
-  <a href="mailto:gaemliker16@naver.com">
-    <img height="25" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gameliker16@naver.com"/>
-  </a> 
 
 
 
