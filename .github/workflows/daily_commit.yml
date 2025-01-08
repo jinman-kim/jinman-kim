@@ -1,26 +1,32 @@
 name: Daily Commit
 
 on:
-  workflow_dispatch:           # 수동 실행 트리거 추가
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '30 13 * * *'  
 
 jobs:
   daily-commit:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # 전체 히스토리 가져오기
 
     - name: Configure Git
       run: |
-        git config --local user.email "you@example.com"
-        git config --local user.name "Your Name"
+        git config --local user.email "gameliker16@naver.com"
+        git config --local user.name "kjm4027"
+
+    - name: Pull latest changes
+      run: |
+        git pull origin master --rebase
 
     - name: Create empty commit
       run: |
-        git commit --allow-empty -m "Daily commit $(date)" 
+        git commit --allow-empty -m "Daily commit $(date)" || echo "No changes to commit"
 
     - name: Push changes
       uses: ad-m/github-push-action@v0.6.0
