@@ -1,0 +1,28 @@
+name: Daily Commit
+
+on:
+  workflow_dispatch:           # 수동 트리거(필요시)
+  schedule:
+    - cron: '3 11 * * *'      # 매일 UTC 기준 11시 5분에 실행 → 한국 시간 오후 8시 5분
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Configure Git
+      run: |
+        git config --local user.email "you@example.com"
+        git config --local user.name "Your Name"
+
+    - name: Create empty commit
+      run: |
+        git commit --allow-empty -m "Daily commit $(date)" 
+
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
