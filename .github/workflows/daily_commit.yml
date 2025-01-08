@@ -1,6 +1,7 @@
 name: Daily Commit
 
 on:
+  workflow_dispatch:           # 수동 실행 트리거 추가
   schedule:
     - cron: '0 0 * * *'
 
@@ -14,8 +15,8 @@ jobs:
 
     - name: Configure Git
       run: |
-        git config --local user.email "gameliker16@naver.com"
-        git config --local user.name "kjm4027"
+        git config --local user.email "you@example.com"
+        git config --local user.name "Your Name"
 
     - name: Create empty commit
       run: |
