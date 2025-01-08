@@ -1,9 +1,9 @@
-name: Daily Commit 20시 10분
+name: Daily Commit 20시 30분
 
 on:
   workflow_dispatch:           # 수동 트리거(필요시)
   schedule:
-    - cron: '10 11 * * *'      # 매일 UTC 기준 11시 10분에 실행 → 한국 시간 오후 8시 10분
+    - cron: '30 11 * * *'      # 매일 UTC 기준 11시 30분에 실행 → 한국 시간 오후 8시 30분
 
 jobs:
   daily-commit:
