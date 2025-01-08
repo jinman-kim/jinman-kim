@@ -3,11 +3,11 @@ name: Daily Commit 20시 30분
 on:
   workflow_dispatch:           # 수동 트리거(필요시)
   schedule:
-    - cron: '30 11 * * *'      # 매일 UTC 기준 11시 30분에 실행 → 한국 시간 오후 8시 30분
+    - cron: '30 12 * * *'      # 21:30 pm(KST)
 
 jobs:
   daily-commit:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
     - name: Checkout repository
